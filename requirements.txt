@@ -1,0 +1,15 @@
+streamlit
+gradio==6.26.0
+ultralytics==8.4.138
+torch==2.14.0
+torchvision==0.29.0
+transformers
+safetensors
+opencv-python-headless==4.10.0.84
+numpy==1.26.4
+pillow
+PyYAML
+requests
+imageio-ffmpeg
+lap
+onnxruntime
