@@ -10,9 +10,6 @@ __pycache__/
 .vscode/
 .ipynb_checkpoints/
 
-data/raw/
-data/processed/
-
 runs/
 outputs/video/
 outputs/reports/
@@ -31,3 +28,5 @@ yolo11s.pt
 Thumbs.db
 
 models/
+data/
+data/
